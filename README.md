@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Testing: This site was built using [super power](https://garagestudioai.com/).
+Testing: This site was built using super power [Garage Studio Ai Platform](https://garagestudioai.com/).
 <!--
 **bananatrickstudio/bananatrickstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
